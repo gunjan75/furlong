@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.img-box{
+    background-image: url(https://tse4.mm.bing.net/th?id=OIP.2D63rR8gfP5qUyM0EXOQAAHaEo&pid=Api&P=0&w=245&h=153);
+    margin-left:10%;
+    margin-right: 10%;
+    background-size: cover;
+}
+img{    margin-left:10%;
+    margin-top:50px;
+    max-width: 300px;
+}
+ .banner{
+    display: flex;
+    margin-top: 65px;
+    width: 600;
+}
+.left-column,.right-column{
+    flex-basis: 40%;
+    width: 500;
+}
+.img-fluid{
+    vertical-align:middle;
+    max-width: 750px;
+    height: 500px;
+    text-align: center;
+    margin-top: 3px;
+}
+.heading{
+    font-size: 30px;
+    margin-left: 30%;
+}
+.play-button{
+   background-color:rgb(58, 58, 226); 
+   height:45px;
+   width: 150px;
+   margin-top:40px;
+   margin-left: 15px;
+   font-size: 18px ;
+   border-radius: 10px;
+   color:  white ;
+}
+.button{
+    height: 45px;
+    width: 150px;
+    font-size: 18px ;
+    color: rgb(58, 58, 236) ;
+    background-color:none;
+    border: 10;
+    border-color: rgb(58, 58, 236) ;
+    border-radius: 10px;
+}
+h1{
+    color: black;
+    margin-left: 20%;
+    margin-top: 5%;
+    font-size: 300px;
+}
+.container{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.carousel-indicators{
+background-color: rgb(123, 161, 243);
+margin-left: 50%;
+margin-right: 50%
+}
+.last-section{
+     margin-left:15%;
+    margin-right: 15%;
+    height: 90vh;
+    margin-bottom: 4px;
+    background: linear-gradient(226.4deg, rgba(87, 116, 249, 0.5) 17.4%, rgba(123, 141, 255, 0.5) 74.87%);
+    border-radius: 80px;
+}
+ .last{
+    display: flex;
+    margin-top: 5%;
+    width: 600;
+}
+.left-row{
+    flex-basis: 40%;
+    width: 500px;
+    margin-top: 15%;
+}
+.img-section{
+    vertical-align:middle;
+    max-width: 800px;
+    height: 600px;
+    text-align: center;
+    margin-bottom: 20%;
+margin-left: 15%;
+}
+.text{
+    margin-left: 20%;
+    font-size: 200px;
+}
+.button-section{
+   background-color: red;
+   height:45px;
+   width: 150px;
+   margin-top:40px;
+   margin-left: 15px;
+   font-size: 18px ;
+   color:  white ;
+   border-radius: 10px;
+}
+.tap-button{
+    height: 45px;
+    width: 150px;
+    font-size: 18px ;
+    background-color: transparent ;
+    border: 10;
+    border-color: rgb(252, 250, 250) ;
+    border-radius: 10px;
+    color: white;
+}
+h2{
+    color: solid black;
+    margin-left: 20%;
+    margin-top: 5%;
+
+    
+}
+.install-button{
+   margin-left: 10%; 
+   margin-top: 10%;
+}
+.footer{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: rgb(123, 123, 248);
+    height: 40vh;
+}
+.tag{
+    margin-top: 5%;
+    margin-left: 5%;
+    width: 15%;
+}
+.btn-secondary{
+    background-color: transparent;
+    margin-top: 10%;
+}
+.btn-group{
+    margin-left: 5%;
+    font-size: 40px;
+}
+.note-text{
+    margin-top: 5%;
+    margin-left: 40%;
+    margin-bottom: 1%;
+    font-size: 20px;
+}
